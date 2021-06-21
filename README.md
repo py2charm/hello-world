@@ -1,2 +1,3 @@
 # hello-world
-my first git
+
+i want to learn python
